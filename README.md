@@ -46,4 +46,5 @@ This repository contains my Verilog HDL projects developed as part of my digital
 ## Author
 
 **Vineesh Khichar**
+
 Electrical Engineering Student
