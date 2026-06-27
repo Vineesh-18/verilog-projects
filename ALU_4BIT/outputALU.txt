@@ -1,4 +1,4 @@
-
+4 Bit ALU Output
 input:
       A = 4'b1011 = 11
       B = 4'b0110 = 6 
