@@ -1,0 +1,15 @@
+MOD-10 Counter with 7-Segment Display Output
+===========================================
+
+Time=0   | count=0 | seg=1111110
+Time=25  | count=1 | seg=0110000
+Time=65  | count=2 | seg=1101101
+Time=105 | count=3 | seg=1111001
+Time=145 | count=4 | seg=0110011
+Time=185 | count=5 | seg=1011011
+Time=225 | count=6 | seg=1011111
+Time=265 | count=7 | seg=1110000
+Time=305 | count=8 | seg=1111111
+Time=345 | count=9 | seg=1111011
+
+Simulation completed successfully.
