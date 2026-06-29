@@ -1,4 +1,4 @@
-OUTPUT
+UART OUTPUT
 
 --------------------------------
 Received Data = a5
